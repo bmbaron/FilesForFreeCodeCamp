@@ -1,0 +1,28 @@
+Can use as a JSON when I make my random quote generator:
+
+https://theysaidso.com/api/
+http://quotes.rest/qod.json
+
+{
+    "success": {
+        "total": 1
+    },
+    "contents": {
+        "quotes": [
+            {
+                "quote": "Those who know how to win are much more numerous than those who know how to make proper use of their victories",
+                "length": "110",
+                "author": "Polybius",
+                "tags": [
+                    "inspire",
+                    "winning"
+                ],
+                "category": "inspire",
+                "date": "2016-12-17",
+                "title": "Inspiring Quote of the day",
+                "background": "https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+                "id": "Pa0wzJ6f7UsH91Ttr2kmHweF"
+            }
+        ]
+    }
+}
